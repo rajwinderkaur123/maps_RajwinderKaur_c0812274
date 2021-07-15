@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176348668580",
+    "project_id": "meal-master-40ac1",
+    "storage_bucket": "meal-master-40ac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176348668580:android:f10ea83e6246526590fc31",
+        "android_client_info": {
+          "package_name": "com.capstone_team_capstone_meal_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176348668580-4v7t5atc41bjlveoo9llijatou42u18v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs2pu1x-9P6zUlxByQz42TpNDIV896L3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176348668580-4v7t5atc41bjlveoo9llijatou42u18v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

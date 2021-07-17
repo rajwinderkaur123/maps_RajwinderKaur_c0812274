@@ -133,7 +133,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
                         markerList.add(mMap.addMarker(options));
                         if(markerList.size() == POLYGON_SIDES)
-                            drawline();
+                            drawshape();
                     }
                 }catch (IOException e){
                     e.printStackTrace();
